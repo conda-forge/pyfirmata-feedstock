@@ -1,6 +1,6 @@
 {% set name = "pyFirmata" %}
-{% set version = "1.0.0" %}
-{% set sha256 = "2e7e1be872287074e268975b534127a77def7050b9379cc2a0dc19bfd0dca184" %}
+{% set version = "1.0.1" %}
+{% set sha256 = "f711056bacf7c8d5ceb822c3734883088f1c75ceaa0c2e924731aa523a029629" %}
 
 package:
   name: {{ name|lower }}
